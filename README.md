@@ -48,11 +48,16 @@ def max_marks(list1):
 
 ```
 ##  Output for To find the maximum marks using the list method max().
-![output](./img/output1.png) 
+
+![output](output1.png) 
+
+
 ##  Output for To find the maximum marks using the list method max().
-![output](./img/output2.png) 
+![output](output2.png) 
+
+
 ##  Output for To find the maximum marks without using builtin functions.
-![output](./img/output3.png) 
+![output](output3.png) 
 
 
 ## Result:
